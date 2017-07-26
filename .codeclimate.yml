@@ -2,6 +2,7 @@
 engines:
   coffeelint:
     enabled: true
+    config: coffeelint.json
   duplication:
     enabled: false
     config:
